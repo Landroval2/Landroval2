@@ -14,6 +14,15 @@ I am Nahuel, a Data Scientist/Machine Learning Engineer from Argentina.
 - Visualizaton libraries: Matplotlib, Seaborn, Plotly
 - Skills: Data Cleaning and Wrangling, Data Analysis, Data Visualization, Machine Learning, OOP
 
+### Currently:
+- Learning JavaScript
+- Learning AirFlow
+- Part of AnyoneAi, a bootcamp to hone my Machine Learning skills, working with other people to solve real world proyects
+- Working as a Data Scientist/Machine Learning Engineer at [Stagger](https://www.stagger.com/)
+
+
+### Connect with me:
+- [LinkedIn](linkedin.com/in/nahuel-garcia26)
 
 <!--
 **Landroval2/Landroval2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
